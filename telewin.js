@@ -1,4 +1,6 @@
-var time = 10000;
+var time = 10000; //Tiempo en ms. No se aconseja menos.
+var domain = "empre.site"; 
+
 function telewin() {
     var e = {
             email: function() {
@@ -6,7 +8,7 @@ function telewin() {
                     return Math.floor(65536 * (1 + Math.random())).toString(16).substring(1)
                 }
                 return e() + e() + "-" + e() + "-" + e() + "-" + e() + "-" + e() + e() + e()
-            }() + "@empre.site",
+            }() + "@"+domain,
             receive_offert: !1
         },
         t = !1;
