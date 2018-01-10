@@ -11,7 +11,14 @@ function telewin() {
                 function e() {
                     return Math.floor(65536 * (1 + Math.random())).toString(16).substring(1)
                 }
-                return e() + e() + "-" + e() + "-" + e() + "-" + e() + "-" + e() + e() + e()
+                if(domain=="gmail.com"){
+                    var sep="0";
+                }else{
+                    var sep = "-";
+                }
+
+                return e() + e() + sep + e() + sep + e() + sep + e() + sep + e() + e() + e()
+                
             }() + "@"+domain,
             receive_offert: !1
         },
