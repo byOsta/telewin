@@ -13,7 +13,7 @@ Las cosas han cambiado, pero el objetivo es el mismo. Aporrear vuestros teclados
 - 2: Posicionate en la pestaña consola, si es que no estan en ella ya
 - 3: Pega el contenido del script y presiona enter
 
-[![https://i.gyazo.com/840b01d42f612b060acfa7208b1a0b7f.gif](https://i.gyazo.com/840b01d42f612b060acfa7208b1a0b7f.gif)
+![https://i.gyazo.com/840b01d42f612b060acfa7208b1a0b7f.gif](https://i.gyazo.com/840b01d42f612b060acfa7208b1a0b7f.gif)
 
 ## Preguntas frecuentas
 
@@ -28,6 +28,16 @@ En la consola que abriste, se ira corriendo el script y te avisara si te ha toca
 - ¿Una vez toca? ¿Que debo hacer?
 
 Si has utilizado el dominio empre.site, deberas de hablar con @s0l3r, decirle el email premiado y que te pase el codigo. Si utilizas otro dominio deberas tener acceso a dicha cuenta.
+
+- Si sale ganador, ¿Se detiene el script o sigue funcionando?
+
+Sigue funcionando.
+
+- Si he dejado el script funcionando, ¿Como puedo filtrar solo por las pizzas ganadas?
+
+En chrome existe la posibilidad de filtrar X tipo de mensajes. Habilita solo los warnings
+
+![https://i.gyazo.com/507a199b24dffeb8156b47c82fbabec9.gif](https://i.gyazo.com/507a199b24dffeb8156b47c82fbabec9.gif)
 
 ## Aviso importante
 
