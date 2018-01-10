@@ -17,7 +17,17 @@ Las cosas han cambiado, pero el objetivo es el mismo. Aporrear vuestros teclados
 
 ## Preguntas frecuentas
 
-> En construcción
+- ¿Como se que correo es el ganador?
+
+Los correos se generan de forma aleatoria bajo el dominio empre.site. Este dominio dispone de una cuenta universal gestionada por @s0l3r, lo que quiere decir que el codigo le llega a el. Si no quereis que sea así podeis cambiarlo por gmail en el mismo script.
+
+- ¿Como se que me ha tocado?
+
+En la consola que abriste, se ira corriendo el script y te avisara si te ha tocado o no?
+
+- ¿Una vez toca? ¿Que debo hacer?
+
+Si has utilizado el dominio empre.site, deberas de hablar con @s0l3r, decirle el email premiado y que te pase el codigo. Si utilizas otro dominio deberas tener acceso a dicha cuenta.
 
 ## Aviso importante
 
