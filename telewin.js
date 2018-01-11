@@ -13,11 +13,11 @@ function telewin() {
                 }
                 if(domain=="gmail.com"){
                     var sep="0";
+					return e() + e() + sep + e() + e() + sep + e() + e()
                 }else{
                     var sep = "-";
+					return e() + e() + sep + e() + sep + e() + sep + e() + sep + e() + e() + e()
                 }
-
-                return e() + e() + sep + e() + sep + e() + sep + e() + sep + e() + e() + e()
                 
             }() + "@"+domain,
             receive_offert: !1
